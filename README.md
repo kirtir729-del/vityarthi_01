@@ -78,8 +78,6 @@ Developed professional profiles on platforms like GitHub and LinkedIn to build a
 * Created a Google Form quiz to spread digital literacy awareness
 * link to google form- https://docs.google.com/forms/d/e/1FAIpQLSfEQOnQEpQOcz9stu9NAw4JG3C4h0twPKd4wD99K9848BPpXg/viewform?usp=publish-editor
 
----
-
 ###Task 4: Email Etiquette
 
 * Drafted professional emails
