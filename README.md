@@ -5,6 +5,7 @@ Digital Literacy is a course online made for student learning programme to use d
 ## Student Details
 
 * **Name:Katyayani Roy
+* registration number-: 25BHI10102
 * **Course: CSE0001 – Digital Literacy
 * **University: VIT Bhopal University
 * **Year: 1st Year B.Tech
