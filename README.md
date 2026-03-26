@@ -57,9 +57,9 @@ digital-literacy-project/
 
 ---
 
-## 🧩 Task Summary
+##Task Summary
 
-### 📊 Task 1: Digital Literacy Infographic
+###Task 1: Digital Literacy Infographic
 
 Created a visual infographic explaining digital literacy, safe internet practices, and useful tools for students.
 
@@ -71,28 +71,28 @@ Developed professional profiles on platforms like GitHub and LinkedIn to build a
 
 ---
 
-### 💻 Task 3: Platforms & Collaboration
+### Task 3: Platforms & Collaboration
 
 * Completed a beginner coding challenge
 * Created a Google Form quiz to spread digital literacy awareness
 
 ---
 
-### 📧 Task 4: Email Etiquette
+###Task 4: Email Etiquette
 
 * Drafted professional emails
 * Created a social media Do’s and Don’ts checklist
 
 ---
 
-### 🔐 Task 5: Cybercrime Awareness
+## Task 5: Cybercrime Awareness
 
 * Developed a case study on cybercrime (e.g., phishing or UPI fraud)
 * Created a prevention checklist to promote online safety
 
 ---
 
-## 🚨 Cyber Security Focus
+## Cyber Security Focus
 
 This project highlights the importance of cyber security by helping users:
 
